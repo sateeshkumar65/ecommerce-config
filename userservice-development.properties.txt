@@ -1,1 +1,1 @@
-welcome.message=Hi from development environment, I am wishing  from Github
+welcomeMessage=Hi from development environment, I am wishing  from Github
